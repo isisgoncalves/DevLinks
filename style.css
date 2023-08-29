@@ -4,6 +4,11 @@ body{
 
 #container{
   width: 360px;
-  height: 712px;
   margin: auto;
+}
+
+#profile img{
+width: 112px;
+border-radius: 50%;
+border: 2.5px solid rgb(8, 8, 8);
 }
