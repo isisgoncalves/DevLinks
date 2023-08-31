@@ -38,8 +38,15 @@ border: 2.5px solid rgb(8, 8, 8);
 
 ul{
   list-style: none;
+}
+  
+
+ul li a {
   display: flex;
   flex-direction: column;
-  text-align: center;
-  gap: 8px;
+  padding: 16px 24px;
+  border: 1px solid #ffffff;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
 }
