@@ -63,3 +63,10 @@ ul li a:hover{
   border: 1.5px solid rgb(255, 255, 255);
 }
 
+#social-links{
+  display: flex;
+  padding: 24px 0;
+  gap: 35px;
+  font-size: 28px;
+  justify-content: center;
+}
