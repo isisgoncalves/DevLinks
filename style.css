@@ -16,12 +16,12 @@ body *{
 #container{
   width: 360px;
   margin: auto;
-  padding-top: 56px;
+  padding-top: 45px;
 }
 
 #profile{
   text-align: center;
-  padding: 24px;
+  padding: 23px;
 }
 
 #profile img{
@@ -33,14 +33,15 @@ border: 2.5px solid rgb(8, 8, 8);
 #profile p{
   font-weight: 500;
   line-height: 24px;
-  margin-top: 8px;
+  font-size: medium;
+  margin-top: 8.5px;
 }
 
 ul{
   list-style: none;
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: 15px;
 }
 
 ul li a {
@@ -63,9 +64,17 @@ ul li a:hover{
   border: 1.5px solid rgb(255, 255, 255);
 }
 
-#social-links{
+#text {
   display: flex;
-  padding: 24px 0;
+  padding-top: 23px;
+  align-items: center;
+  justify-content: center;
+  font-size: medium;
+}
+
+#icons{
+  display: flex;
+  padding: 23px 0;
   gap: 35px;
   font-size: 28px;
   justify-content: center;
