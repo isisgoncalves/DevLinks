@@ -27,7 +27,11 @@ body *{
 #profile img{
 width: 112px;
 border-radius: 50%;
-border: 2.5px solid rgb(8, 8, 8);
+border: 4.5px double rgb(8, 8, 8);
+}
+
+#profile img:hover{
+  width: 135px;
 }
 
 #profile p{
@@ -56,20 +60,12 @@ ul li a {
   -webkit-backdrop-filter: blur(4px);
   text-decoration: none;
   font-weight: 500;
-  transition-delay: 0.2s;
+  transition-delay: 0.1s;
 }
 
 ul li a:hover{
   background: rgba(255, 255, 255, 0.05);
   border: 1.5px solid rgb(255, 255, 255);
-}
-
-#text {
-  display: flex;
-  padding-top: 23px;
-  align-items: center;
-  justify-content: center;
-  font-size: medium;
 }
 
 #icons{
@@ -79,3 +75,23 @@ ul li a:hover{
   font-size: 28px;
   justify-content: center;
 }
+
+#html5:hover{
+  font-size: 38px;
+  transition: 0.2s;
+ }
+
+ #css3:hover{
+  font-size: 38px;
+  transition: 0.2s;
+ }
+
+ #js:hover{
+  font-size: 38px;
+  transition: 0.2s;
+ }
+
+ #git:hover{
+  font-size: 38px;
+  transition: 0.2s;
+ }
