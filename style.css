@@ -27,11 +27,11 @@ body *{
 #profile img{
 width: 112px;
 border-radius: 50%;
-border: 4.5px double rgb(8, 8, 8);
+border: 4.5px double rgba(8, 8, 8);
 }
 
 #profile img:hover{
-  width: 135px;
+  border: 2.5px solid rgba(255, 255, 255, 0.5);
 }
 
 #profile p{
@@ -39,6 +39,10 @@ border: 4.5px double rgb(8, 8, 8);
   line-height: 24px;
   font-size: medium;
   margin-top: 8.5px;
+}
+
+#profile p:hover{
+  text-transform: uppercase;
 }
 
 ul{
