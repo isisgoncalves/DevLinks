@@ -9,6 +9,7 @@
   --bg-url: url(./assets/bg-mobile.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
+  --surface-color-hover: rgba(255, 255, 255, 0.05);
 }
 
 .light{
@@ -16,6 +17,7 @@
   --bg-url: url(./assets/bg-mobile-light.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
+  --surface-color-hover: rgba(0, 0, 0, 0.02);
 }
 
 body{
@@ -41,11 +43,11 @@ body *{
 #profile img{
 width: 112px;
 border-radius: 50%;
-border: 4.5px double rgba(8, 8, 8);
+border: 3.5px solid var(--stroke-color);
 }
 
 #profile img:hover{
-  border: 2.5px solid rgba(255, 255, 255, 0.5);
+  border: 2px solid var(--text-color);
 }
 
 #profile p{
@@ -82,8 +84,8 @@ ul li a {
 }
 
 ul li a:hover{
-  background: rgba(255, 255, 255, 0.05);
-  border: 1.5px solid rgb(255, 255, 255);
+  background: var(--surface-color-hover);
+  border: 1.5px solid var(--text-color);
 }
 
 #icons{
