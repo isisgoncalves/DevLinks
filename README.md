@@ -1,23 +1,28 @@
 
-# Projeto Discover
+<h1 align="center"> Projeto Discover </h1>
 
+<p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+</p>
 
+<p align="center">
 <img src="./assets/bg-github.jpg" alt="">
+</p>
 
-## Autores
+<h2 align="center"> Autores </h2>
 
+<p align="center">
 - [@isisgoncalves](https://www.github.com/isisgoncalves)
+</p>
 
+<h2 align="center"> Referência </h2>
 
-## Referência
 
  - [Rocketseat - Discover](https://www.rocketseat.com.br/discover)
  - [Mayk Brito](https://github.com/maykbrito)
  - [ReadMe](https://readme.so/pt)
 
-
-## 🚀 Tecnologias
+<h2 align="center"> 🚀 Tecnologias </h2>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
