@@ -27,8 +27,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este é um projeto DevLinks. É um agregador de links para usar como cartão de visitas online.
+Este é um projeto DevLinks. Um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://github.com/isisgoncalves/Projeto-Discover.git)
+- [Acesse o projeto finalizado, online](https://isisgoncalves.github.io/Projeto-Discover/)
 
 ## Continua...
