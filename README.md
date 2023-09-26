@@ -1,5 +1,6 @@
 
-<h1 align="center"> Projeto Discover </h1>
+
+## Projeto Discover
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
