@@ -9,20 +9,20 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <img src="./assets/bg-github.jpg" alt="">
 </p>
 
-<h2 align="center"> Autores </h2>
 
-<p align="center">
+## Autores
+
 - [@isisgoncalves](https://www.github.com/isisgoncalves)
-</p>
 
-<h2 align="center"> Referência </h2>
 
+## Referência
 
  - [Rocketseat - Discover](https://www.rocketseat.com.br/discover)
  - [Mayk Brito](https://github.com/maykbrito)
  - [ReadMe](https://readme.so/pt)
 
-<h2 align="center"> 🚀 Tecnologias </h2>
+
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
