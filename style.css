@@ -36,9 +36,10 @@ body *{
 }
 
 #container{
-  width: 360px;
-  margin: auto;
-  padding-top: 45px;
+  width: 100%;
+  max-width: 588px;
+  margin: 56px auto 0px;
+  padding-top: 0 24px;
 }
 
 #profile{
