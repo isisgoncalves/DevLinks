@@ -1,5 +1,5 @@
 
-<h1 align="center"> Projeto Discover </h1>
+<h1 align="center"> DevLinks </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -30,6 +30,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este é um projeto DevLinks. Um agregador de links para usar como cartão de visitas online.
+Este é um projeto DevLinks, que tem por finalidade ser um agregador de links para usar como cartão de visitas online.
 
 - [Acesse o projeto finalizado, online.](https://isisgoncalves.github.io/Projeto-Discover/)
