@@ -6,7 +6,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-<img src="./assets/bg-github.jpg" alt="">
+<img src="./assets/devlinks.gif" alt="">
 </p> 
 
 ## Autores
